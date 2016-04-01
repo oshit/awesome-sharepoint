@@ -54,3 +54,7 @@ Thanks to all [contributors](https://github.com/sergey-tihon/awesome-sharepoint/
 * [SPBestWarmUp](http://spbestwarmup.codeplex.com/) - A warm-up script for SharePoint pages.
 * [STSADM custom extensions](http://blog.falchionconsulting.com/index.php/category/stsadm-commands/) - Extend STSADM and PowerShell commands.
 * [Free SharePoint Monitoring Tool](http://www.manageengine.com/free-sharepoint-monitor/free-sharepoint-health-monitor-index.html) - A free SharePoint Health Monitor tool helps keep a close watch on SharePoint environment such as SharePoint Site, IIS server, MSSQL server and Host server.
+* 
+
+##Resource
+http://sharepointfordeveloper.blogspot.com/
