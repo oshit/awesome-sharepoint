@@ -58,3 +58,4 @@ Thanks to all [contributors](https://github.com/sergey-tihon/awesome-sharepoint/
 
 ##Resource
 http://sharepointfordeveloper.blogspot.com/
+http://spoodoo.com/
