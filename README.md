@@ -60,3 +60,11 @@ Thanks to all [contributors](https://github.com/sergey-tihon/awesome-sharepoint/
 http://sharepointfordeveloper.blogspot.com/
 http://spoodoo.com/
 https://github.com/DanielStoelzner/StickyHeaders
+
+https://github.com/SPCSR/DisplayTemplates
+
+https://github.com/Aymkdn/SharepointPlus
+
+https://github.com/365CSI/iCSR
+
+https://github.com/lastblindpilot/SharePointLinksAndSnippets
