@@ -68,3 +68,17 @@ https://github.com/Aymkdn/SharepointPlus
 https://github.com/365CSI/iCSR
 
 https://github.com/lastblindpilot/SharePointLinksAndSnippets
+
+
+#websites resource
+http://www.sharepointdiary.com/
+https://akhileshgandhi.wordpress.com/tag/sharepoint/
+https://akhileshgandhi.wordpress.com/author/akhileshgandhi/
+http://sympmarc.com/2011/02/14/finding-the-contents-of-a-sharepoint-rich-text-column-with-jquery-and-changing-it/
+http://www.spjeff.com/crib/
+http://icansharepoint.com/
+http://en.share-gate.com/blog/real-world-sharepoint-governance-plan
+http://get-spblog.com/end-user/
+https://praneethmoka.wordpress.com/2012/01/12/some-useful-javascript-variablesfunctions-in-sharepoint/
+http://www.cmswire.com/social-business/comparing-6-sharepoint-intranets-in-a-box/?
+http://thesharepointfarm.com/2016/02/random-sharepoint-administration-thoughts/
