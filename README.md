@@ -71,8 +71,8 @@ https://github.com/lastblindpilot/SharePointLinksAndSnippets
 
 
 #websites resource
-*http://www.sharepointdiary.com/
-*https://akhileshgandhi.wordpress.com/tag/sharepoint/
+* http://www.sharepointdiary.com/
+* https://akhileshgandhi.wordpress.com/tag/sharepoint/
 *https://akhileshgandhi.wordpress.com/author/akhileshgandhi/
 *http://sympmarc.com/2011/02/14/finding-the-contents-of-a-sharepoint-rich-text-column-with-jquery-and-changing-it/
 *http://www.spjeff.com/crib/
