@@ -82,3 +82,4 @@ https://github.com/lastblindpilot/SharePointLinksAndSnippets
 * https://praneethmoka.wordpress.com/2012/01/12/some-useful-javascript-variablesfunctions-in-sharepoint/
 * http://www.cmswire.com/social-business/comparing-6-sharepoint-intranets-in-a-box/?
 * http://thesharepointfarm.com/2016/02/random-sharepoint-administration-thoughts/
+* *http://spoodoo.com/
